@@ -2,6 +2,8 @@
 
 This application provides a way to test the functionality of the local safebox client by communicating through the safebox chrome browser extension. It allows you to download and upload files.
 
+![Interface](https://github.com/SafeMedia/images/blob/main/impossible_futures/safebox/safebox-example-webpage.png)
+
 Be sure to change the extension ID in the .env file of your project root.
 
 You can find the extension ID to use in your chrome browsers extensions panel once you have installed the extension.
