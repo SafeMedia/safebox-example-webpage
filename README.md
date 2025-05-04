@@ -1,4 +1,4 @@
-# Test webpage for showcasing safebox client & Autonomi extension
+# SafeBox Example Webpage
 
 This application provides a way to test the functionality of the local safebox client by communicating through the safebox chrome browser extension. It allows you to download and upload files.
 
