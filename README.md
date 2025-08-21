@@ -1,4 +1,13 @@
-# SafeBox Example Webpage
+# DEPRECATED
+
+You can get the Autonomi extension here: https://github.com/SafeMedia/autonomi-chrome-extension
+
+You can get the SafeBox local client here: https://github.com/SafeMedia/safebox-client
+
+You can setup a endpoint server here: https://github.com/SafeMedia/safebox-server
+
+----------------------
+
 
 This application provides a way to test the functionality of the local safebox client by communicating through the safebox chrome browser extension. It allows you to download and upload files.
 
